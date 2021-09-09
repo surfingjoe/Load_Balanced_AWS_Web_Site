@@ -54,7 +54,7 @@
    2. `terraform validate`
    3. `Terraform apply -var-file=test.tfvars`
 
-   **That's it, you have launched and should now have a load balanced static web site with reslience across availablitity zones and within each zone have at least two web servers for high availablity** 
+   **That's it, you have launched and should now have a load balanced static web site with resilience across availability zones and within each zone have at least two web servers for high availability** 
 
 
 
