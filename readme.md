@@ -58,7 +58,7 @@
 
 
 
-The jump server (I call it the controller) can be launched and/or destroyed at any time without impact to the load balancers or web servers.  If you want to launch the jump server, simply perform the following:
+The jump server (I call it the controller) can be launched and/or destroyed at any time without impact to the load balancers or web servers.  If you want to launch the jump server, simply change folder to the controller folder and perform the following:
 
 1. `Terraform init`
 2. `terraform validate`
