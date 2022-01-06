@@ -19,7 +19,7 @@ pipeline{
     stages{
         stage('Git Checkout'){
            steps{
-               git branch: 'master', credentialsId: 'Github', url: 'https://github.com/surfingjoe/Load_Balanced_AWS_Web_Site'
+               git branch: 'master', credentialsId: 'Github', url: 'https://github.com/surfingjoe/One_Public_Subnet_Basic_Web_Server'
            }
         }
         stage('Terraform Init'){
