@@ -1,4 +1,6 @@
 # Creating load balancer for static website
+The code found here is a part of my blog on using "Infrastructure as Code" with Terraform.  I'm writing different exercises on how to use Terraform to create AWS deployments in my WordPress site [https://josephomara.com ](https://wordpress.com/post/josephomara.com/650)
+
 
 <img src="Load Balanced Static Websites.jpg">
 
